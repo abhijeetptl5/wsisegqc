@@ -13,6 +13,8 @@ Download datasets:
 ![Model predictions](https://github.com/abhijeetptl5/wsisegqc/blob/main/preds_all.png)
 
 All models inference: `python inference.py /path/to/wsis cuda:id`
+
 This saves model predictions in npz format and creates visualization.
+
 Sample visualization:
 ![Sample Visualization](https://github.com/abhijeetptl5/wsisegqc/blob/main/viz_sample.png)
