@@ -18,3 +18,15 @@ This saves model predictions in npz format and creates visualization.
 
 Sample visualization:
 ![Sample Visualization](https://github.com/abhijeetptl5/wsisegqc/blob/main/viz_sample.png)
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@article{patil2024semantic,
+  title={Semantic segmentation based quality control of histopathology whole slide images},
+  author={Patil, Abhijeet and Jain, Garima and Diwakar, Harsh and Sawant, Jay and Bameta, Tripti and Rane, Swapnil and Sethi, Amit},
+  journal={arXiv preprint arXiv:2410.03289},
+  year={2024}
+}
