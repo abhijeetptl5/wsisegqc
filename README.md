@@ -1,6 +1,6 @@
 # wsisegqc
 
-[Download models]([https://drive.google.com/file/d/1G_k79ht2NlaDdmmKziX1iXbvffiFSujw/view](https://drive.google.com/drive/folders/1P3E9kZDM7A7cM06RR47kywvQCL3X0HJz?usp=sharing))
+Models [Download models]([https://drive.google.com/file/d/1G_k79ht2NlaDdmmKziX1iXbvffiFSujw/view](https://drive.google.com/drive/folders/1P3E9kZDM7A7cM06RR47kywvQCL3X0HJz?usp=sharing))
 
 Download datasets:
 [HistoROI preds](https://drive.google.com/file/d/1CDFpoJmKoN34CIxsr88fGWI-XckynF6G/view?usp=drive_link) --
